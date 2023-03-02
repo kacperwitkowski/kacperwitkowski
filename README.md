@@ -1,7 +1,7 @@
 <h1 align="center">Kacper Witkowski</h1>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FDE311&center=true&width=435&lines=Full-Stack+Web+Developer;3%2B+years+learning+experience;1+year+of+working+experience" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FDE311&center=true&width=435&lines=Full-Stack+Web+Developer;Bachelor+of+Computer+Science;3%2B+years+learning+experience;1+year+of+working+experience" alt="Typing SVG" />
 </p>
 
 <div align="center">
