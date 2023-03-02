@@ -19,10 +19,10 @@ I'm an polish full-stack developer.
   <summary><h2>📘 My Top Projects</h2></summary>
 
 <p align="left">
-    <a href="https://github.com/kacperwitkowski/Photogram-App"><img width="256" src="https://github-readme-stats.vercel.app/api/pin/?username=kacperwitkowski&repo=Photogram-App&theme=react&bg_color=1F222E&title_color=FDE311&hide_border=true&icon_color=F8D866&show_icons=false" alt="photogram app"></a>
-    <a href="https://github.com/kacperwitkowski/MapU-App"><img width="256" src="https://github-readme-stats.vercel.app/api/pin/?username=kacperwitkowski&repo=mapU-App&theme=react&bg_color=1F222E&title_color=FDE311&hide_border=true&icon_color=F8D866&show_icons=false" alt="mapu app"></a>
-    <a href="https://github.com/kacperwitkowski/Series-Tracker"><img width="256" src="https://github-readme-stats.vercel.app/api/pin/?username=kacperwitkowski&repo=Series-Tracker&theme=react&bg_color=1F222E&title_color=FDE311&hide_border=true&icon_color=F8D866&show_icons=false" alt="series tracker app"></a>
-    <a href="https://github.com/kacperwitkowski/Flights-blog"><img width="256" src="https://github-readme-stats.vercel.app/api/pin/?username=kacperwitkowski&repo=Flights-blog&theme=react&bg_color=1F222E&title_color=FDE311&hide_border=true&icon_color=F8D866&show_icons=false" alt="flights blog app"></a>
+    <a href="https://github.com/kacperwitkowski/Photogram-App"><img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=kacperwitkowski&repo=Photogram-App&theme=react&bg_color=1F222E&title_color=FDE311&hide_border=true&icon_color=F8D866&show_icons=false" alt="photogram app"></a>
+    <a href="https://github.com/kacperwitkowski/MapU-App"><img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=kacperwitkowski&repo=mapU-App&theme=react&bg_color=1F222E&title_color=FDE311&hide_border=true&icon_color=F8D866&show_icons=false" alt="mapu app"></a>
+    <a href="https://github.com/kacperwitkowski/Series-Tracker"><img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=kacperwitkowski&repo=Series-Tracker&theme=react&bg_color=1F222E&title_color=FDE311&hide_border=true&icon_color=F8D866&show_icons=false" alt="series tracker app"></a>
+    <a href="https://github.com/kacperwitkowski/Flights-blog"><img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=kacperwitkowski&repo=Flights-blog&theme=react&bg_color=1F222E&title_color=FDE311&hide_border=true&icon_color=F8D866&show_icons=false" alt="flights blog app"></a>
   </p>
 
 <a href="https://github.com/kacperwitkowski?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
@@ -34,12 +34,12 @@ I'm an polish full-stack developer.
 
   <h3>👨‍💻 Programming and Markup Languages</h3>
   <p>
-  <a href="https://github.com/search?q=user%3Akacperwitkowski+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3Akacperwitkowski+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3Akacperwitkowski+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3Akacperwitkowski+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
   <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3Akacperwitkowski+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3Akacperwitkowski+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3Akacperwitkowski+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
   </p>
     <h3>🧰 Frameworks and Libraries</h3>
   <p>
