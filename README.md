@@ -1,6 +1,8 @@
 <h1 align="center">Kacper Witkowski</h1>
 
+<p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FDE311&center=true&width=435&lines=Full-Stack+Web+Developer;3%2B+years+learning+experience;1+year+of+working+experience" alt="Typing SVG" /></a>
+</p>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/64027201/222509286-0545b251-ae1f-4cc0-a254-23a69b376e86.gif" alt="batman gif"/>
