@@ -8,6 +8,8 @@
    <img src="https://user-images.githubusercontent.com/64027201/222559584-78f60f3b-6eb6-4e4d-8197-5f4f22289227.png" alt="batman seeking for the job"/>
 </div>
 
+<summary><h2>💁‍♂️ About Me</h2></summary>
+
 I’m an polish full-stack developer. All my coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
    <p align="left">
