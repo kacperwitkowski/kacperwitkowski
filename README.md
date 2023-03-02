@@ -19,10 +19,10 @@ I'm an polish full-stack developer.
   <summary><h2>📘 My Top Projects</h2></summary>
 
 <p align="left">
-    <a href="https://github.com/kacperwitkowski/MapU-App"><img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=kacperwitkowski&repo=mapU-App&theme=react&bg_color=1F222E&title_color=FDE311&hide_border=true&icon_color=F8D866&show_icons=false" alt="mapu app"></a>
-    <a href="https://github.com/kacperwitkowski/Series-Tracker"><img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=kacperwitkowski&repo=Series-Tracker&theme=react&bg_color=1F222E&title_color=FDE311&hide_border=true&icon_color=F8D866&show_icons=false" alt="series tracker app"></a>
-    <a href="https://github.com/kacperwitkowski/Photogram-App"><img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=kacperwitkowski&repo=Photogram-App&theme=react&bg_color=1F222E&title_color=FDE311&hide_border=true&icon_color=F8D866&show_icons=false" alt="photogram app"></a>
-    <a href="https://github.com/kacperwitkowski/Flights-blog"><img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=kacperwitkowski&repo=Flights-blog&theme=react&bg_color=1F222E&title_color=FDE311&hide_border=true&icon_color=F8D866&show_icons=false" alt="flights blog app"></a>
+    <a href="https://github.com/kacperwitkowski/Photogram-App"><img width="256" src="https://github-readme-stats.vercel.app/api/pin/?username=kacperwitkowski&repo=Photogram-App&theme=react&bg_color=1F222E&title_color=FDE311&hide_border=true&icon_color=F8D866&show_icons=false" alt="photogram app"></a>
+    <a href="https://github.com/kacperwitkowski/MapU-App"><img width="256" src="https://github-readme-stats.vercel.app/api/pin/?username=kacperwitkowski&repo=mapU-App&theme=react&bg_color=1F222E&title_color=FDE311&hide_border=true&icon_color=F8D866&show_icons=false" alt="mapu app"></a>
+    <a href="https://github.com/kacperwitkowski/Series-Tracker"><img width="256" src="https://github-readme-stats.vercel.app/api/pin/?username=kacperwitkowski&repo=Series-Tracker&theme=react&bg_color=1F222E&title_color=FDE311&hide_border=true&icon_color=F8D866&show_icons=false" alt="series tracker app"></a>
+    <a href="https://github.com/kacperwitkowski/Flights-blog"><img width="256" src="https://github-readme-stats.vercel.app/api/pin/?username=kacperwitkowski&repo=Flights-blog&theme=react&bg_color=1F222E&title_color=FDE311&hide_border=true&icon_color=F8D866&show_icons=false" alt="flights blog app"></a>
   </p>
 
 <a href="https://github.com/kacperwitkowski?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
@@ -54,11 +54,11 @@ I'm an polish full-stack developer.
       <a href="#"><img alt="Sass" src="https://img.shields.io/badge/Sass-CD6799.svg?logo=sass&logoColor=white"></a>
       <a href="#"><img alt="Sanity" src="https://custom-icon-badges.demolab.com/badge/Sanity-FFFFFF.svg?logo=sanityCMS"></a>
       <a href="#"><img alt="Socket.io" src="https://img.shields.io/badge/SocketIO-white.svg?logo=socketdotio&logoColor=black"></a>
-      <a href="#"><img alt="Tailwindcss" src="https://img.shields.io/badge/Tailwindcss-white.svg?logo=tailwindcss&logoColor=67E8F9"></a>
+      <a href="#"><img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwindcss-white.svg?logo=tailwindcss&logoColor=67E8F9"></a>
   </p>
     <h3>🗄️ Databases and Cloud Hosting</h3>
   <p>
-      <a href="#"><img alt="Firebase" src="https://custom-icon-badges.demolab.com/badge/firebase-orange.svg?logo=firebase&logoColor=white"></a>
+      <a href="#"><img alt="Firebase" src="https://custom-icon-badges.demolab.com/badge/Firebase-orange.svg?logo=firebase&logoColor=white"></a>
       <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
       <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
       <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
