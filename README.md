@@ -21,10 +21,10 @@ I'm an polish full-stack developer.
   <summary><h2>📘 My Top Projects</h2></summary>
 
 <p align="left">
-    <a href="https://github.com/kacperwitkowski/MapU-App"><img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=kacperwitkowski&repo=mapU-App&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="mapu app"></a>
-    <a href="https://github.com/kacperwitkowski/Series-Tracker"><img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=kacperwitkowski&repo=Series-Tracker&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="series tracker app"></a>
-    <a href="https://github.com/kacperwitkowski/Photogram-App"><img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=kacperwitkowski&repo=Photogram-App&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="photogram app"></a>
-    <a href="https://github.com/kacperwitkowski/Flights-blog"><img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=kacperwitkowski&repo=Flights-blog&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="flights blog app"></a>
+    <a href="https://github.com/kacperwitkowski/MapU-App"><img width="500" height="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=kacperwitkowski&repo=mapU-App&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="mapu app"></a>
+    <a href="https://github.com/kacperwitkowski/Series-Tracker"><img width="500" height="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=kacperwitkowski&repo=Series-Tracker&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="series tracker app"></a>
+    <a href="https://github.com/kacperwitkowski/Photogram-App"><img width="500" height="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=kacperwitkowski&repo=Photogram-App&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="photogram app"></a>
+    <a href="https://github.com/kacperwitkowski/Flights-blog"><img width="500" height="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=kacperwitkowski&repo=Flights-blog&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="flights blog app"></a>
   </p>
 
 <a href="https://github.com/kacperwitkowski?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
