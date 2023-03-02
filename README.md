@@ -4,9 +4,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FDE311&width=435&lines=Full-Stack+Web+Developer;3%2B+years+learning+experience;1+year+of+working+experience" alt="Typing SVG" /></a>
 </p>
 
-<img align="center" src="https://user-images.githubusercontent.com/64027201/222509286-0545b251-ae1f-4cc0-a254-23a69b376e86.gif">
-</img>
-
+<div align="center">
+<img src="https://user-images.githubusercontent.com/64027201/222509286-0545b251-ae1f-4cc0-a254-23a69b376e86.gif" alt="batman gif"/>
+</div>
 
 I'm an polish full-stack developer.
 
@@ -55,8 +55,8 @@ I'm an polish full-stack developer.
       <a href="#"><img alt="Next JS" src="https://custom-icon-badges.demolab.com/badge/nextjs-FFFFFF.svg?logo=nextjs&logoColor=white"></a>
       <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
       <a href="#"><img alt="Redux" src="https://img.shields.io/badge/Redux-purple.svg?logo=redux&logoColor=white"></a>
-      <a href="#"><img alt="Sass" src="https://img.shields.io/badge/Sass-CD6799.svg?logo=sass&logoColor=white"></a>
       <a href="#"><img alt="Sanity" src="https://custom-icon-badges.demolab.com/badge/Sanity-FFFFFF.svg?logo=sanityCMS"></a>
+      <a href="#"><img alt="Sass" src="https://img.shields.io/badge/Sass-CD6799.svg?logo=sass&logoColor=white"></a>
       <a href="#"><img alt="Socket.io" src="https://img.shields.io/badge/SocketIO-white.svg?logo=socketdotio&logoColor=black"></a>
       <a href="#"><img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwindcss-white.svg?logo=tailwindcss&logoColor=67E8F9"></a>
   </p>
