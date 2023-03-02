@@ -4,10 +4,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FDE311&width=435&lines=Full-Stack+Web+Developer;3%2B+years+learning+experience;1+year+of+working+experience" alt="Typing SVG" /></a>
 </p>
 
-<a href="#" align="center">
-![batman](https://user-images.githubusercontent.com/64027201/222508704-83a70840-1dd3-4531-80dd-6c4108c76785.gif)
-</a>
+<img align="center">
+![batman](https://user-images.githubusercontent.com/64027201/222509286-0545b251-ae1f-4cc0-a254-23a69b376e86.gif)
 
+   
+</img>
 
 
 I'm an polish full-stack developer.
