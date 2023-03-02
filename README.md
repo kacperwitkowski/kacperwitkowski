@@ -50,7 +50,7 @@ I'm an polish full-stack developer.
       <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white"></a>
       <a href="#"><img alt="Next JS" src="https://custom-icon-badges.demolab.com/badge/nextjs-FFFFFF.svg?logo=nextjs&logoColor=white"></a>
       <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-      <a href="#"><img alt="Redux" src="https://img.shields.io/badge/badge/Redux-purple.svg?logo=redux&logoColor=white"></a>
+      <a href="#"><img alt="Redux" src="https://img.shields.io/badge/Redux-purple.svg?logo=redux&logoColor=white"></a>
       <a href="#"><img alt="Sass" src="https://img.shields.io/badge/Sass-CD6799.svg?logo=sass&logoColor=white"></a>
       <a href="#"><img alt="Sanity" src="https://custom-icon-badges.demolab.com/badge/Sanity-FFFFFF.svg?logo=sanityCMS"></a>
       <a href="#"><img alt="Socket.io" src="https://img.shields.io/badge/SocketIO-white.svg?logo=socketdotio&logoColor=black"></a>
