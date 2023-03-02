@@ -1,6 +1,4 @@
-<p align="center">
-🏄‍♂️ Kacper Witkowski
-</p>
+<h1 align="center">🏄‍♂️ Kacper Witkowski</h1>
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FDE311&width=435&lines=Full-Stack+Web+Developer;3%2B+years+learning+experience;1+year+of+working+experience" alt="Typing SVG" /></a>
@@ -21,10 +19,10 @@ I'm an polish full-stack developer.
   <summary><h2>📘 My Top Projects</h2></summary>
 
 <p align="left">
-    <a href="https://github.com/kacperwitkowski/MapU-App"><img width="500" height="190" src="https://github-readme-stats.vercel.app/api/pin/?username=kacperwitkowski&repo=mapU-App&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="mapu app"></a>
-    <a href="https://github.com/kacperwitkowski/Series-Tracker"><img width="500" height="190" src="https://github-readme-stats.vercel.app/api/pin/?username=kacperwitkowski&repo=Series-Tracker&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="series tracker app"></a>
-    <a href="https://github.com/kacperwitkowski/Photogram-App"><img width="500" height="190" src="https://github-readme-stats.vercel.app/api/pin/?username=kacperwitkowski&repo=Photogram-App&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="photogram app"></a>
-    <a href="https://github.com/kacperwitkowski/Flights-blog"><img width="500" height="190" src="https://github-readme-stats.vercel.app/api/pin/?username=kacperwitkowski&repo=Flights-blog&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="flights blog app"></a>
+    <a href="https://github.com/kacperwitkowski/MapU-App"><img width="512" src="https://github-readme-stats.vercel.app/api/pin/?username=kacperwitkowski&repo=mapU-App&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="mapu app"></a>
+    <a href="https://github.com/kacperwitkowski/Series-Tracker"><img width="512" src="https://github-readme-stats.vercel.app/api/pin/?username=kacperwitkowski&repo=Series-Tracker&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="series tracker app"></a>
+    <a href="https://github.com/kacperwitkowski/Photogram-App"><img width="512" src="https://github-readme-stats.vercel.app/api/pin/?username=kacperwitkowski&repo=Photogram-App&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="photogram app"></a>
+    <a href="https://github.com/kacperwitkowski/Flights-blog"><img width="512" src="https://github-readme-stats.vercel.app/api/pin/?username=kacperwitkowski&repo=Flights-blog&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="flights blog app"></a>
   </p>
 
 <a href="https://github.com/kacperwitkowski?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
@@ -48,7 +46,7 @@ I'm an polish full-stack developer.
   <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
       <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
       <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
-      <a href="#"><img alt="JWT" src="hhttps://img.shields.io/badge/JWT-2EDAFF.svg?logo=jsonwebtokens&logoColor=D22B2B"></a>
+      <a href="#"><img alt="JWT" src="https://img.shields.io/badge/JWT-2EDAFF.svg?logo=jsonwebtokens&logoColor=D22B2B"></a>
       <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white"></a>
       <a href="#"><img alt="Next JS" src="https://custom-icon-badges.demolab.com/badge/nextjs-FFFFFF.svg?logo=nextjs&logoColor=white"></a>
       <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
