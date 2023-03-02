@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/64027201/222509286-0545b251-ae1f-4cc0-a254-23a69b376e86.gif" alt="batman gif"/>
+   <img src="https://user-images.githubusercontent.com/64027201/222559584-78f60f3b-6eb6-4e4d-8197-5f4f22289227.png" alt="batman seeking for the job"/>
 </div>
 
 I'm an polish full-stack developer.
