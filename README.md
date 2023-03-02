@@ -1,4 +1,4 @@
-<h1 align="center">🏄‍♂️ Kacper Witkowski</h1>
+<div><h1 align="center">🏄‍♂️<img src="https://user-images.githubusercontent.com/64027201/222511171-4118fd36-e947-44b7-82a3-1937ddbc3767.png" alt="batman logo"/> Kacper Witkowski</h1></div>
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FDE311&width=435&lines=Full-Stack+Web+Developer;3%2B+years+learning+experience;1+year+of+working+experience" alt="Typing SVG" /></a>
