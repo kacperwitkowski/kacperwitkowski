@@ -52,10 +52,9 @@ I’m an polish full-stack developer. All my coding projects are built from the 
   <p>
   <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
       <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
-      <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
       <a href="#"><img alt="JWT" src="https://img.shields.io/badge/JWT-2EDAFF.svg?logo=jsonwebtokens&logoColor=D22B2B"></a>
       <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white"></a>
-      <a href="#"><img alt="Next JS" src="https://custom-icon-badges.demolab.com/badge/nextjs-FFFFFF.svg?logo=nextjs&logoColor=white"></a>
+      <a href="#"><img alt="Next JS" src="https://custom-icon-badges.demolab.com/badge/Nextjs-FFFFFF.svg?logo=nextjs&logoColor=white"></a>
       <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
       <a href="#"><img alt="Redux" src="https://img.shields.io/badge/Redux-purple.svg?logo=redux&logoColor=white"></a>
       <a href="#"><img alt="Sanity" src="https://custom-icon-badges.demolab.com/badge/Sanity-FFFFFF.svg?logo=sanityCMS"></a>
