@@ -46,7 +46,8 @@ I’m an polish full-stack developer. All my coding projects are built from the 
   <a href="https://github.com/search?q=user%3Akacperwitkowski+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
   <a href="https://github.com/search?q=user%3Akacperwitkowski+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/NodeJS-43853D.svg?logo=node.js&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3Akacperwitkowski+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
-       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
+       <a href="https://github.com/search?q=user%3Akacperwitkowski+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
+            <a href="https://github.com/search?q=user%3Akacperwitkowski+language%3Avisualbasic"><img alt="Visual Basic" src="https://img.shields.io/badge/VisualBasic-000000.svg?logo=vb"></a>
   </p>
     <h3>🧰 Frameworks and Libraries</h3>
   <p>
