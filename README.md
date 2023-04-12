@@ -47,12 +47,13 @@ I’m an polish full-stack developer. All my coding projects are built from the 
   <a href="https://github.com/search?q=user%3Akacperwitkowski+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/NodeJS-43853D.svg?logo=node.js&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3Akacperwitkowski+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
        <a href="https://github.com/search?q=user%3Akacperwitkowski+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
-            <a href="https://github.com/search?q=user%3Akacperwitkowski+language%3Avisualbasic"><img alt="Visual Basic" src="https://img.shields.io/badge/VisualBasic-FFFFFF.svg?logo=vb"></a>
+            <a href="https://github.com/search?q=user%3Akacperwitkowski+language%3Avisualbasic"><img alt="Visual Basic" src="https://custom-icon-badges.demolab.com/badge/VisualBasic-FFFFFF.svg?logo=vb"></a>
   </p>
     <h3>🧰 Frameworks and Libraries</h3>
   <p>
   <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
       <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/ExpressJS-404d59.svg?logo=express&logoColor=white"></a>
+      <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/GraphQL-E10098.svg?logo=graphql&logoColor=white"></a>
       <a href="#"><img alt="JWT" src="https://img.shields.io/badge/JWT-2EDAFF.svg?logo=jsonwebtokens&logoColor=D22B2B"></a>
       <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white"></a>
       <a href="#"><img alt="Next JS" src="https://custom-icon-badges.demolab.com/badge/NextJS-FFFFFF.svg?logo=nextjs&logoColor=white"></a>
