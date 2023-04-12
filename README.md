@@ -43,14 +43,15 @@ I’m an polish full-stack developer. All my coding projects are built from the 
   <p>
   <a href="https://github.com/search?q=user%3Akacperwitkowski+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3Akacperwitkowski+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3Akacperwitkowski+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+  <a href="https://github.com/search?q=user%3Akacperwitkowski+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=white"></a>
+            <a href="https://github.com/search?q=user%3Akacperwitkowski+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3Akacperwitkowski+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/NodeJS-43853D.svg?logo=node.js&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3Akacperwitkowski+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
-       <a href="https://github.com/search?q=user%3Akacperwitkowski+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
             <a href="https://github.com/search?q=user%3Akacperwitkowski+language%3Avisualbasic"><img alt="Visual Basic" src="https://custom-icon-badges.demolab.com/badge/VisualBasic-FFFFFF.svg?logo=vb"></a>
   </p>
     <h3>🧰 Frameworks and Libraries</h3>
   <p>
+       <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/Apollo-311C87?logo=apollographql&logoColor=white"></a>
   <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
       <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/ExpressJS-404d59.svg?logo=express&logoColor=white"></a>
       <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/GraphQL-E10098.svg?logo=graphql&logoColor=white"></a>
@@ -66,6 +67,7 @@ I’m an polish full-stack developer. All my coding projects are built from the 
   </p>
     <h3>🗄️ Databases and Cloud Hosting</h3>
   <p>
+      <a href="#"><img alt="Firebase" src="https://custom-icon-badges.demolab.com/badge/Docker-2496ED.svg?logo=docker&logoColor=white"></a>
       <a href="#"><img alt="Firebase" src="https://custom-icon-badges.demolab.com/badge/Firebase-orange.svg?logo=firebase&logoColor=white"></a>
       <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
       <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
@@ -95,9 +97,3 @@ I’m an polish full-stack developer. All my coding projects are built from the 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
   </details>
-
-<details>
- <summary><h2>👨‍💻 My Coding Journey</h2></summary>
-  description
-
-[website]: TBD
