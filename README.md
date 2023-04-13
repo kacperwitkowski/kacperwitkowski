@@ -51,8 +51,9 @@ I’m an polish full-stack developer. All my coding projects are built from the 
   </p>
     <h3>🧰 Frameworks and Libraries</h3>
   <p>
-       <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/Apollo-311C87?logo=apollographql&logoColor=white"></a>
+       <a href="#"><img alt="Apollo" src="https://img.shields.io/badge/Apollo-311C87?logo=apollographql&logoColor=white"></a>
   <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
+  <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white"></a>
       <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/ExpressJS-404d59.svg?logo=express&logoColor=white"></a>
       <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/GraphQL-E10098.svg?logo=graphql&logoColor=white"></a>
       <a href="#"><img alt="JWT" src="https://img.shields.io/badge/JWT-2EDAFF.svg?logo=jsonwebtokens&logoColor=D22B2B"></a>
@@ -63,6 +64,7 @@ I’m an polish full-stack developer. All my coding projects are built from the 
       <a href="#"><img alt="Sanity" src="https://custom-icon-badges.demolab.com/badge/Sanity-FFFFFF.svg?logo=sanityCMS"></a>
       <a href="#"><img alt="Sass" src="https://img.shields.io/badge/Sass-CD6799.svg?logo=sass&logoColor=white"></a>
       <a href="#"><img alt="Socket.io" src="https://img.shields.io/badge/SocketIO-white.svg?logo=socketdotio&logoColor=black"></a>
+      <a href="#"><img alt="Styled Components" src="https://img.shields.io/badge/StyledComponents-DB7093.svg?logo=styledcomponents&logoColor=black"></a>
       <a href="#"><img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-white.svg?logo=tailwindcss&logoColor=67E8F9"></a>
   </p>
     <h3>🗄️ Databases and Cloud Hosting</h3>
