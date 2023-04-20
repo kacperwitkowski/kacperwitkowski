@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Kacper Witkowski <img src="https://user-images.githubusercontent.com/64027201/222677187-bca68663-cc71-44a4-939d-c1d8e6ac8ecf.gif" width="29px" alt="waving hand"/></h1>
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FDE311&center=true&width=435&lines=Full-Stack+Web+Developer;Bachelor+of+Computer+Science;3%2B+years+learning+experience;1+year+of+working+experience" alt="Typing SVG" />
-</p>
 
 
+<div align="center">
+   <img src="https://user-images.githubusercontent.com/64027201/222559584-78f60f3b-6eb6-4e4d-8197-5f4f22289227.png" alt="batman seeking for the job"/>
+</div>
 
 #
 
