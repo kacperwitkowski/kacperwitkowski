@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Kacper Witkowski <img src="https://user-images.githubusercontent.com/64027201/222677187-bca68663-cc71-44a4-939d-c1d8e6ac8ecf.gif" width="29px" alt="waving hand"/></h1>
+<h1 align="center">Hello world, I'm Kacper <img src="https://user-images.githubusercontent.com/64027201/222677187-bca68663-cc71-44a4-939d-c1d8e6ac8ecf.gif" width="29px" alt="waving hand"/></h1>
 
 
 <div align="center">
